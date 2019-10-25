@@ -76,9 +76,9 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Instalação e Execução
 
-composer install
-npm install
-cofigure a conexao com o banco no .env
-php artisan migrate
-php artisan db:seed
-php artisan serve
+- composer install
+- npm install
+- cofigure a conexao com o banco no .env
+- php artisan migrate
+- php artisan db:seed
+- php artisan serve
